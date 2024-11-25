@@ -1,3 +1,6 @@
+
+<h1 align="left">MY Portfolio</h1>
+
 M&Y Kariyer ve Akademi’nin değerli eğitmeni Sayın Murat Yücedağ tarafından Udemy’de ücretsiz olarak sunulan 
 "Asp.Net Core ile Admin Panelli Dinamik Bir Portfolyo Geliştirelim" kursunu başarıyla tamamladım. 
 Bu eğitim sürecinde, Asp.Net Core Code First yapısını temel alarak çalıştım. Tek katmanlı mimariyi etkin 
@@ -5,7 +8,7 @@ bir şekilde kullanırken, aynı zamanda ViewComponent yapısını da pekiştirm
 
 
 
-UI Görselleri
+<h2>UI Görselleri</h2>
 
 ![Ekran görüntüsü 2024-11-25 194944](https://github.com/user-attachments/assets/33fc61db-c732-4180-b2ff-3efd2a1ce668)
 
@@ -14,7 +17,7 @@ UI Görselleri
 ![Ekran görüntüsü 2024-11-25 195005](https://github.com/user-attachments/assets/b1246982-9a5f-434b-998b-f2c4bcbe31b4)
 
 
-Admin Görselleri
+<h2>Admin Görselleri</h2>
 
 ![Ekran görüntüsü 2024-11-25 195031](https://github.com/user-attachments/assets/617bf500-0108-461e-8a8d-44acf5b9bd94)
 
